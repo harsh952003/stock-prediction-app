@@ -1,7 +1,3 @@
-Neeche aapke **GitHub project ke liye ready-to-use README.md** diya gaya hai. Aap ise directly copy karke GitHub repo me paste kar sakte ho.
-
----
-
 # T-Shirt Review Sentiment Classifier
 
 This project is a **Sentiment Analysis Web Application** built using **Natural Language Processing (NLP)** and **Machine Learning**, deployed with **Streamlit**.
@@ -130,5 +126,3 @@ streamlit run app.py
 Built using Streamlit, NLP, and Machine Learning
 
 ---
-
-Agar aap chaho to main is README ka **short version**, **college project version**, ya **professional GitHub version** bhi bana deta hoon.
